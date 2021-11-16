@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "E-MARKET",
-    "slug": "E-MARKET",
+    "name": "Shopping-App",
+    "slug": "Shopping-App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
