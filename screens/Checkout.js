@@ -41,7 +41,7 @@ export function Checkout(params) {
 
   return (
     <SafeAreaView style={styles.container}>
-      <ImageBackground source={require('../assets/a.jpg')} style={styles.bgImage}>
+      <ImageBackground source={require('../assets/dress cc.jpg')} style={styles.bgImage}>
         <View style={styles.mainContainer}>
           <View style={styles.ainputContainer}>
             <View style={styles.labinputContainer}>

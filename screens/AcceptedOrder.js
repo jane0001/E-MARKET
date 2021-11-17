@@ -20,7 +20,7 @@ export function AcceptedOrder (params) {
     return (
       <SafeAreaView 
         style={styles.container}>
-          <ImageBackground style={styles.bgImage} source={require('../assets/a.jpg')}>
+          <ImageBackground style={styles.bgImage} source={require('../assets/dress cc.jpg')}>
             <View style={{backgroundColor: '#fafafa', borderRadius:15, marginHorizontal:15, marginBottom:20, justifyContent: 'center', alignItems: 'center'}}>
             <View style={{marginTop: 10}}>
               <Entypo name="thumbs-up" size={40} color="black" />
